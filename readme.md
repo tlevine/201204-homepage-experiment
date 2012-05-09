@@ -25,5 +25,4 @@ the businessyness rather an the minimalness explains the high score
 for the minimal layout and that the minimal layout performed
 unremarkably differently from the original blobby homepage.
 
-[spreadsheet]: 
-https://docs.google.com/a/scraperwiki.com/spreadsheet/ccc?key=0AmgaEqd-YKjXdGNENndyR1BScFMtdG45OEJyQXZaR2c
+[spreadsheet]: https://docs.google.com/a/scraperwiki.com/spreadsheet/ccc?key=0AmgaEqd-YKjXdGNENndyR1BScFMtdG45OEJyQXZaR2c
