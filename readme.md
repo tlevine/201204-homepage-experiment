@@ -1,6 +1,6 @@
 An experiment was conducted to see how homepage layout affected whether
 people would arrive at the /request_data page. The design is documented
-in [a Google Spreadsheet](spreadsheet).
+in [a Google Spreadsheet](https://docs.google.com/a/scraperwiki.com/spreadsheet/ccc?key=0AmgaEqd-YKjXdGNENndyR1BScFMtdG45OEJyQXZaR2c)
 
 I ran post-hoc pairwise Fisher's Exact Test on the six obvious comparisons.
 
@@ -24,5 +24,3 @@ significant differences within businessyness conditions; it seems that
 the businessyness rather an the minimalness explains the high score
 for the minimal layout and that the minimal layout performed
 unremarkably differently from the original blobby homepage.
-
-[spreadsheet]: https://docs.google.com/a/scraperwiki.com/spreadsheet/ccc?key=0AmgaEqd-YKjXdGNENndyR1BScFMtdG45OEJyQXZaR2c
