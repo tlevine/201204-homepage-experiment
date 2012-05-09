@@ -23,4 +23,4 @@ businessy and non-businessy, and the unadjusted p-values show no
 significant differences within businessyness conditions; it seems that
 the businessyness rather an the minimalness explains the high score
 for the minimal layout and that the minimal layout performed
-unremarkably differently from the original blobby homepage.
+unremarkably differently from the original blobby layout.
